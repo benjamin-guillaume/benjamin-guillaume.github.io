@@ -3,7 +3,7 @@ title: Slate
 tagline: By Pixelarity
 description: > # this means to ignore newlines until "baseurl:"
   Benjamin GUILLAUME : Présentation de mes compétences.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll_website" # the subpath of your site, e.g. /blog
 url: "https://benjamin-guillaume.github.io" # the base hostname & protocol for your site
 
 # Plugins
